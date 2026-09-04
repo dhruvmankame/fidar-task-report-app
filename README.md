@@ -12,7 +12,7 @@ Managers and employees can create, assign, track and comment on tasks, move them
 
 | Login | Dashboard | Tasks + Filters | Task Detail | Create/Edit |
 |-------|-----------|------------------|-------------|-------------|
-| ![Login](docs/screenshots/login.jpg) | ![Dashboard](docs/screenshots/dashboard.jpg) | ![Tasks](docs/screenshots/reports.jpg) | ![Detail](docs/screenshots/detail.jpg) | ![Form](docs/screenshots/form.jpg) |
+| ![Login](docs/screenshots/login.jpg) | ![Dashboard](docs/screenshots/dashboard.jpg) | ![Tasks](docs/screenshots/tasks.jpg) | ![Detail](docs/screenshots/detail.jpg) | ![Form](docs/screenshots/reports.jpg) |
 
 _(Add your screenshots to `docs/screenshots/`. On a running app: take them from Expo Go or the installed APK.)_
 
