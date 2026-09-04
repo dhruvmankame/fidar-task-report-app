@@ -21,7 +21,10 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -33,6 +36,11 @@
           "photosPermission": "Allow $(PRODUCT_NAME) to attach photos to tasks."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b1f07e7b-b07e-4490-ab9d-101a4a5326d0"
+      }
+    }
   }
 }
